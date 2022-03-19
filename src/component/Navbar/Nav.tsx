@@ -170,7 +170,7 @@ function Nav() {
 					<div className="icon"><img src={logo} alt="" /></div>
 					<div className="nav_find">
 						<div className="nav_title">
-							<i style={{ fontWeight: "510" }} className="fa-solid fa-magnifying-glass"> <span>Search</span></i>
+							<i style={{ fontWeight: "510" }} className="fa-solid fa-magnifying-glass"> <span>Tìm Kiếm</span></i>
 						</div>
 						<div className="Nav_InputFind">
 							<Autocomplete
